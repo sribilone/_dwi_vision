@@ -1,2 +1,5 @@
 # Ignore checkpoint folder
 image_classification/checkpoint/
+
+# Ignore .DS_Store
+.DS_Store
